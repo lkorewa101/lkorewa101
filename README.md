@@ -3,6 +3,9 @@
 <br/>
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<br/>
+<img alt="C" src ="https://img.shields.io/badge/C-#A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
+<img alt="Java" src ="https://img.shields.io/badge/Java-#66CFE3.svg?&style=flat-square&logo=Java&logoColor=white"/>
 <!--
 **lkorewa101/lkorewa101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
