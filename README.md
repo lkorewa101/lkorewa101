@@ -1,11 +1,4 @@
 ## Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lkorewa101)](https://solved.ac/lkorewa101)
-<br/>
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-<br/>
-<img alt="c" src ="https://img.shields.io/badge/c-A8B9CC.svg?&style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <!--
 **lkorewa101/lkorewa101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
